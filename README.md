@@ -1,79 +1,11 @@
-ProfileMe.dev
-
-LEAVE 
-FEEDBACK
-New feature:
-Light/dark mode
-
-INTRODUCTION
-SKILLS
-SOCIALS
-BADGES
-SUPPORT
-© 2022 Dan Cranney
-
-Follow me
-|
-Buy Me a Coffee
-Badges
-Add some badges and stats to your profile.
-
-Previous section
-Next section
-STYLE BADGES:
-
-
- 
-TITLE
-EDIT
-
- 
-TEXT
-EDIT
-
- 
-ICONS
-EDIT
-
- 
-BACKGROUND
-EDIT
-GitHub
-STATS CARD
-SHOW:
-
-Stars
-Commits
-PRs
-Issues
-Contributions
-Private Commits
-COMMIT STREAK
-COMMITS GRAPH
-TOP LANGUAGES
-TOP REPOSITORIES
-FOLLOWER COUNT
-Twitter
-Please add your Twitter profile in the socials section.
-
-FOLLOWER COUNT
-Twitch
-Please add your Twitch profile in the socials section.
-
-STREAMING STATUS
-Previous section
-Next section
-PREVIEW
-MARKDOWN
-COPY
 Hi 👋 My name is Bobby Adamski
 ==============================
 
 Full Stack Developer
 --------------------
 
-* 🌍  I'm based in Poland
-* ✉️  You can contact me at [info@usimple.io](mailto:info@usimple.io)
+* 🌍  I'm based in Poland
+* ✉️  You can contact me at [info@usimple.io](mailto:info@usimple.io)
 
 ### Skills
 
@@ -105,9 +37,11 @@ Full Stack Developer
 <a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="36" height="36" alt="XD" /></a>
 </p>
 
+
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/bobbyadamski" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
+
 ### Badges
 
 <b>My GitHub Stats</b>
@@ -115,4 +49,3 @@ Full Stack Developer
 <a href="http://www.github.com/bobbyadamski"><img src="https://github-readme-stats.vercel.app/api?username=bobbyadamski&show_icons=true&hide=&count_private=true&title_color=84cc16&text_color=ffffff&icon_color=84cc16&bg_color=1c1917&hide_border=true&show_icons=true" alt="bobbyadamski's GitHub stats" /></a>
 
 <a href="https://github.com/bobbyadamski" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bobbyadamski&langs_count=10&title_color=84cc16&text_color=ffffff&icon_color=84cc16&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
